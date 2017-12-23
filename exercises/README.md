@@ -53,5 +53,23 @@
 51. Crivo de Eratóstenes [Sieve of Eratosthenes]
 52. Média e Variância Online [Online Average and Variance]
 53. Jogos Olímpicos [Olympic Games]
-
+54. Calculadora em Notação Polonesa Reversa [Reverse Polish Notation Calculator]
+55. Carteiro Viajante [Travelling Salesman]
 56. Tesouro Direto
+57. Agenda
+58. Contagem de Caracteres em um Arquivo [File Char Counting]
+59. Ordenação de Conteúdo de Dois Arquivos [2-File Content Sorting]
+60. Leitura e Ordenação de Caracteres [Char Reading and Sorting]
+61. Séries de Frações com Denominadores Primos [Prime Denominator Fraction Series]
+62. Run-Length
+63. Tribonacci
+64. ~~redacted~~
+65. Norma 1 [1-Norm]
+66. Captcha
+67. Tetranacci
+68. Sequência Jacobsthal Lucas [Jacobsthal Lucas Numbers]
+69. Norma Infinita [Infinite Norm]
+70. Autocomplemento [Autocomplete]
+71. Roteiro de Viagem [Travel Itinerary]
+72. Colisão de Objetos [Object Collision]
+73. Conversão de Endereço IPv4 para IPv6 [IPv4 to IPv6 Conversion]
